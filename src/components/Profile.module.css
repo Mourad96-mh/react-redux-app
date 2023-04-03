@@ -1,0 +1,19 @@
+
+
+.profile{
+    text-align: center;
+    max-width: 40rem;
+    margin: 2rem auto;
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 11px;
+}
+
+
+.profil-heading {
+    text-transform: uppercase;
+    font-size: 2rem;
+    margin-bottom: 2.8rem;
+    color: #333;
+    font-weight: bold;
+}
